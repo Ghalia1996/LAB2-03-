@@ -8,7 +8,8 @@ A recent graduate from Yarmouk University, majoring in computer information syst
 I offer you an explanation of two important and specialized topics 
 
 # learn new technology # 
-|technology name      | learn more |
+
+| technology name| learn more |
 | ----------- | ----------- |
 | html     | [lets go to read about html](http://https://ghalia1996.github.io/LAB2-03-/ghaliahtml)      |
 | wireframe  | [lets go to read about wireframe](https://https://ghalia1996.github.io/LAB2-03-/ghaliawireframe)        |
